@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gayathri
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning full stack development and python
+- 🌱 I’m currently learning AI and Machine Learning
 -  📫 How to reach me gayathri10061999@gmail.com
 visit my website: https://github.com/Gayathri10061999/Gayathri10061999.git
 <!---
